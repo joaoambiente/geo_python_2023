@@ -1,0 +1,6 @@
+numpy
+matplotlib
+imageio
+pandas
+nose
+jupyter-offlinenotebook
